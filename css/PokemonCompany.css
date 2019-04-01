@@ -1,0 +1,95 @@
+body
+{
+    padding:20px;
+}
+.nav-bar-wrapper
+{
+    position:absolute;
+    left:0px;
+    right:0px;
+    top:2px;
+    z-index:20;
+    
+}
+.nav-bar-wrapper > .container
+{
+    padding-right:0px;
+    padding-left: 0px;
+}
+.carousel
+{
+    height:500px;
+    margin-bottom:50px;
+}
+.team .col-sm-4
+{
+    text-align: center;
+    padding:15px
+}
+.team h1
+{
+    color:green;
+}
+.team p
+{
+    margin-left:10px;
+    margin-right:10px;
+    margin-bottom:10px;
+    margin-top:10px;
+}
+/*
+.carousel > .item
+{
+    height:500px;
+    background-color:#777777;
+    
+}
+*/
+.corousel-inner>.item >img
+{
+    position:absolute;
+    height:500px;
+    min-width:100%;
+    top:0px;
+/*    left:0px;*/
+    
+}
+.carousel
+{
+    padding-left:0px;
+    padding-right:0px;
+    min-width:100%;
+    margin-top:50px;
+}
+carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    display: block;
+    min-width: 100%;
+    height: 500px;
+}
+.divider
+{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-style: inset;
+  border-width: 2px;
+    border-color: red;
+}
+.content .col-sm-7
+{
+    padding-left:50px;
+    padding-top:150px;
+}
+.content
+{
+    margin-bottom:30px;
+}
+footer
+{
+    
+    margin-right:70px;
+}
+.uff
+{
+    margin-left: 70px;
+}
+
